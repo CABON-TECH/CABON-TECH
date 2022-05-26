@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking forwad to collaborate on frontend development
-- 📫 How to reach me through my email @kishushuboniface@gmail.com
+- 📫 How to reach me through my email @kishushubonifacembogho@gmail.com
 
 <!---
 CABON-TECH/CABON-TECH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
