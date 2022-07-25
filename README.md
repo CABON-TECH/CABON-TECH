@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CABON-TECH
+- 👋 Hi, I’m @CABON-TECH.
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking forwad to collaborate on frontend development
