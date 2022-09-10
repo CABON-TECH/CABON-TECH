@@ -19,10 +19,8 @@
 <h3 align="center">I am an Enthusiatic Passionate Developer from Kenya</h3>
 <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="right" height="48" width="48" ></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
-<!--   my-ticker --> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hello!+👋,+I'm+CABON-TECH;+Welcome+to+my+Github+Profile!;Lets+connect!;)](https://git.io/typing-svg)
-<br/>
-## About :
+
+## About
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
 - 🔭 I’m currently a Software Engineer student at ALX Africa.<br/>
 - 💬 Mastering the skills of Agile Software Craftmanship.<br/>
@@ -45,22 +43,20 @@
 </div>
 <br />
 
-## Social Networks <img alt="GIF" height="50px" src="https://media.giphy.com/media/U6dDV4ZMHioLYimEFM/giphy.gif"/>
+## Social Networks 
+<img alt="GIF" height="50px" src="https://media.giphy.com/media/U6dDV4ZMHioLYimEFM/giphy.gif"/>
 <a href="https://www.linkedin.com/in/boniface-mbogho-66242a243?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Be2UXwttrT4uxeigUZi2RlQ%3D%3D">
-  <img alt="CABON-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-  </a>
-  <a href="https://www.leetcode.com/BONII" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="BONII" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
-  <a href="https://dev.to/https://g.dev/CABON-TECH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/CABON-TECH" height="30" width="40" /></a>
-  
+<img alt="CABON-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+</a>
+<a href="https://www.leetcode.com/BONII" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="BONII" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
+<a href="https://dev.to/https://g.dev/CABON-TECH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/CABON-TECH" height="30" width="40" /></a>
 <a href="https://instagram.com/@_b.o.n.i.i">
   <img  alt="CABON-Instagram" height="30" width="40" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" style="max-width:100%;">
 </a>
-
 <a href="https://twitter.com/Cabon_Bonii_">
   <img  alt="CABON-Twitter" height="30" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"style="max-width:100%;">
 </a>
-
 <a href="https://t.me/CABON_TECH">
   <img  alt="CABON-Telegram" height="30" width="40" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" style="max-width:100%;">
 </a>
