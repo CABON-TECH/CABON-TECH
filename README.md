@@ -25,6 +25,7 @@
 - 🔭 I’m currently a Software Engineer student at ALX Africa.<br/>
 - 💬 Mastering the skills of Agile Software Craftmanship.<br/>
 - ⚡ Future Goals: Contribute more to the community and learn more about new technologies that arise.
+
 - 📫 How to reach me **kishushubonifacembogho@gmail.com**
 
 
@@ -35,7 +36,10 @@
 <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width:100%;">
 <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
 <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="max-width:100%;">
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<img align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+<img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
 <img align="center" alt="VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;">
 <img align="center" alt="VisualCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width:100%;">
