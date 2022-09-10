@@ -48,7 +48,7 @@
 <br />
 
 ## Social Networks 
-<img href="https://www.linkedin.com/in/boniface-mbogho-66242a243?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Be2UXwttrT4uxeigUZi2RlQ%3D%3D">
+<img align="center" href="https://www.linkedin.com/in/boniface-mbogho-66242a243?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Be2UXwttrT4uxeigUZi2RlQ%3D%3D">
 <img align="center" alt="CABON-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 <a href="https://www.leetcode.com/BONII" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="BONII" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
