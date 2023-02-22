@@ -69,6 +69,7 @@
 <div style="display: inline_block"><br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+[![CABON-TECH'S wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bonifacembogho&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/)CABON-TECH
 
   
 
