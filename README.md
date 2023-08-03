@@ -5,9 +5,7 @@
   <a href="https://www.linkedin.com/in/boniface-mbogho-66242a243?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Br86yJt9GRa%2BT7EUmujdivw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+ 
   <a href="https://twitter.com/Cabon_Bonii_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
