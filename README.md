@@ -27,6 +27,7 @@
 ⚡ Future Goals: Contribute more to the community and learn more about new technologies that arise.
 
 📫 How to reach me **kishushubonifacembogho@gmail.com**
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
